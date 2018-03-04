@@ -1,8 +1,45 @@
 {
   "basics":{
     "name":"Sowmya",
+    "photo":"download.jpg",
     "phone":"7673998076",
     "photo":"12.png",
     "email":"mukkusowmya@gmail.com"
-  }
+  },
+
+  "education":[
+    {
+    "course":"(Computer Science engineering)",
+    "college":"Gudlavalleru Engineering College",
+    "data":["2015-2019","81%","JNTU-K"]
+    },
+    {
+      "course":"Inter(M.P.C)",
+      "college":"Narayana Jr college",
+      "data":["2013-2015","87%","Ap board"]
+    },
+    {
+      "course":"S.S.C",
+      "college":"viswa Bharathi",
+      "data":["2007-2013","93%","Ap board"]
+    }
+  ],
+  "skills" :[
+    {
+      "name":"Languages known",
+      "info":["c","python","php","sql"]
+
+    },{
+      "name":"Languages known",
+      "info":["c","python","php","sql"]
+    },
+    {
+      "name":"Operating System",
+      "info":["linux","unix","windows"]
+    },
+    {
+      "name":"data basics",
+      "info":["sql","oracle","pl/sql"]
+    }
+  ]
 }
